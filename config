@@ -1,0 +1,5 @@
+#!/bin/bash
+
+BUILD_ROOT="${0%/*}"
+echo ${0}
+echo ${BUILD_ROOT}
